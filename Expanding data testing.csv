@@ -1,0 +1,16 @@
+Demographics,Population,Reasons ,Estimate
+Race/Ethnicity ,White,Infection,0.15
+Race/Ethnicity ,White,Severe bleeding,0.09
+Race/Ethnicity ,White,Stroke,0.08
+Race/Ethnicity ,Black,Infection,0.1
+Race/Ethnicity ,Black,Severe bleeding,0.1
+Race/Ethnicity ,Black,Stroke,0.06
+Race/Ethnicity ,AIAN,Infection,0.09
+Race/Ethnicity ,AIAN,Severe bleeding,0.2
+Race/Ethnicity ,AIAN,Stroke,0.05
+Race/Ethnicity ,Asian PI,Infection,0.15
+Race/Ethnicity ,Asian PI,Severe bleeding,0.2
+Race/Ethnicity ,Asian PI,Stroke,0.11
+Race/Ethnicity ,Hispanic,Infection,0.17
+Race/Ethnicity ,Hispanic,Severe bleeding,0.16
+Race/Ethnicity ,Hispanic,Stroke,0.08
