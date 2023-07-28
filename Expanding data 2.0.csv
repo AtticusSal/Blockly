@@ -1,16 +1,16 @@
-Title,Demographics,Population,Reasons ,Estimate,Locality
-Ratio of Women,Race/Ethnicity ,White,Infection,0.15,United States
-Ratio of Women,Race/Ethnicity ,AIAN,Stroke,0.05,United States
-Ratio of Women,Race/Ethnicity ,Black,Severe bleeding,0.1,United States
-Ratio of Women,Race/Ethnicity ,Asian PI,Severe bleeding,0.2,United States
-Ratio of Women,Race/Ethnicity ,Hispanic,Severe bleeding,0.16,United States
-Ratio of Women,Race/Ethnicity ,White,Stroke,0.08,United States
-Ratio of Women,Race/Ethnicity ,AIAN,Infection,0.09,United States
-Ratio of Women,Race/Ethnicity ,Asian PI,Stroke,0.11,United States
-Ratio of Women,Race/Ethnicity ,Hispanic,Infection,0.17,United States
-Ratio of Women,Race/Ethnicity ,Black,Infection,0.1,United States
-Ratio of Women,Race/Ethnicity ,White,Severe bleeding,0.09,United States
-Ratio of Women,Race/Ethnicity ,Hispanic,Stroke,0.08,United States
-Ratio of Women,Race/Ethnicity ,Black,Stroke,0.06,United States
-Ratio of Women,Race/Ethnicity ,AIAN,Severe bleeding,0.2,United States
-Ratio of Women,Race/Ethnicity ,Asian PI,Infection,0.15,United States
+title,demographics,population,reason,estimate,locality
+Ratio of Women,Race/Ethnicity,White,Infection,0.15,United States
+Ratio of Women,Race/Ethnicity,American Indian/Alaska Native,Stroke,0.05,United States
+Ratio of Women,Race/Ethnicity,Black,Severe bleeding,0.1,United States
+Ratio of Women,Race/Ethnicity,Asian/Pacific Islander,Severe bleeding,0.2,United States
+Ratio of Women,Race/Ethnicity,Hispanic,Severe bleeding,0.16,United States
+Ratio of Women,Race/Ethnicity,White,Stroke,0.08,United States
+Ratio of Women,Race/Ethnicity,American Indian/Alaska Native,Infection,0.09,United States
+Ratio of Women,Race/Ethnicity,Asian/Pacific Islander,Stroke,0.11,United States
+Ratio of Women,Race/Ethnicity,Hispanic,Infection,0.17,United States
+Ratio of Women,Race/Ethnicity,Black,Infection,0.1,United States
+Ratio of Women,Race/Ethnicity,White,Severe bleeding,0.09,United States
+Ratio of Women,Race/Ethnicity,Hispanic,Stroke,0.08,United States
+Ratio of Women,Race/Ethnicity,Black,Stroke,0.06,United States
+Ratio of Women,Race/Ethnicity,American Indian/Alaska Native,Severe bleeding,0.2,United States
+Ratio of Women,Race/Ethnicity,Asian/Pacific Islander,Infection,0.15,United States
